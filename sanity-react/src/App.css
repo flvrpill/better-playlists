@@ -1,13 +1,5 @@
 .App {
-  text-align: left;
-  padding-left: 10%;
-}
-ul {
-  list-style-type: none;
-}
-
-.App h2 {
-  color: #fff;
+  text-align: center;
 }
 
 .App-logo {
@@ -43,8 +35,4 @@ ul {
   to {
     transform: rotate(360deg);
   }
-}
-
-h1 {
-  font-size: 54px;
 }
